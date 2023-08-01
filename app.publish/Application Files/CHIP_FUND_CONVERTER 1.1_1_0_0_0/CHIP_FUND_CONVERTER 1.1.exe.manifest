@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="CHIP_FUND_CONVERTER 1.1.exe" version="1.0.0.0" publicKeyToken="c341c2e87f773700" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="download.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="CHIP_FUND_CONVERTER 1.1" version="1.1.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="CHIP_FUND_CONVERTER 1.1.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CHIP_FUND_CONVERTER 1.1.exe" size="275872">
+      <assemblyIdentity name="CHIP_FUND_CONVERTER 1.1" version="1.1.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>xxpgmsXJrAGVN04WNdf8sXogONM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Spire.Common.dll" size="118784">
+      <assemblyIdentity name="Spire.Common" version="1.2.413.7020" publicKeyToken="663F351905198CB3" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>6DEeJOfPSdw6dp3ClqR7Iv6i318=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Spire.License.dll" size="55296">
+      <assemblyIdentity name="Spire.License" version="1.3.5.20" publicKeyToken="B1144360237C8B3F" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>Q7E0UXPAazTaaWsROhxSnwp/cRA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Spire.Pdf.dll" size="12787712">
+      <assemblyIdentity name="Spire.Pdf" version="3.7.4.7020" publicKeyToken="663F351905198CB3" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>tQP7X2hqG70k71R8Ks1l+cOF+RM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Spire.XLS.dll" size="19091456">
+      <assemblyIdentity name="Spire.XLS" version="7.10.0.7020" publicKeyToken="663F351905198CB3" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>JP0ie3tFkP4/FWng5/C42F3uZa8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="CHIP_FUND_CONVERTER 1.1.exe.config" size="1319">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>7n+2Nd5izqhg03P9VgXEGGLHEOo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="download.ico" size="86438">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>moneMRHuRJc7STN+qZzaqrXqaEc=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=GPX-LAP194\bznwi" issuerKeyHash="eebf71db36bf0e702629ada80e428492d7c22a79" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>huCbUHkBc9fwEpAQlxkf5h5Vb4A=</DigestValue></Reference></SignedInfo><SignatureValue>PH0XpwbQ7pm35lEbuMxnxDZGi6+s+G9LNEDgfzNx4R2lloaR5mFeizPziEv3OpZBtERh1QZ91/CytcRVJ6TbnxEG24ti6ONsokPvsa5zygXA+lf2tyA3x3blaOY2mAjFJjd4C6d6VqyRCrRYzCmHroO9BenaiSbKqKHdGxwSSIw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>xvRF1inA9aTsEQHTaqPY95YSzvR5eMTtR0KwN6liBTgs70HhcVSKm4wG1FFgT5wRl7SELHxFVCqmZyKanP5DWytrqV0QYY5ZqFj5X1F4XtJ2Zm92wPjfkjFz+/RkcFQzBy1+qvbI4Fpog/0o2hLcweWhd0n0EokPNEMYQCCaQHk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="806f551ee61f1997109012f0d7730179509be086" Description="" Url=""><as:assemblyIdentity name="CHIP_FUND_CONVERTER 1.1.exe" version="1.0.0.0" publicKeyToken="c341c2e87f773700" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=GPX-LAP194\bznwi</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>J3tDHu/i6VN0uCAEx/lQ+s458xM=</DigestValue></Reference></SignedInfo><SignatureValue>aM+vHVqUSP458xDf39L77TKCTx9+0/ja6f8EOOcPtKA6B6ZDSJuQzzk7gLqlN2SUS/8GQa1vyBYaVS2gouHdk9TkD6g9l6GEgkM/cIqZZE7/XioTZaM80WyysQpkHniD3+K2OTkTEa49sTxNJqD+vgAqZKDnHk/1WjwEPNyqq44=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>xvRF1inA9aTsEQHTaqPY95YSzvR5eMTtR0KwN6liBTgs70HhcVSKm4wG1FFgT5wRl7SELHxFVCqmZyKanP5DWytrqV0QYY5ZqFj5X1F4XtJ2Zm92wPjfkjFz+/RkcFQzBy1+qvbI4Fpog/0o2hLcweWhd0n0EokPNEMYQCCaQHk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQKC0JDfM/I7pLRbLj6ccgEDANBgkqhkiG9w0BAQUFADArMSkwJwYDVQQDHiAARwBQAFgALQBMAEEAUAAxADkANABcAGIAegBuAHcAaTAeFw0yMzA3MDYxNzAwNTRaFw0yNDA3MDUyMzAwNTRaMCsxKTAnBgNVBAMeIABHAFAAWAAtAEwAQQBQADEAOQA0AFwAYgB6AG4AdwBpMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDG9EXWKcD1pOwRAdNqo9j3lhLO9Hl4xO1HQrA3qWIFOCzvQeFxVIqbjAbUUWBPnBGXtIQsfEVUKqZnIpqc/kNbK2upXRBhjlmoWPlfUXhe0nZmb3bA+N+SMXP79GRwVDMHLX6q9sjgWmiD/SjaEtzB5aF3SfQSiQ80QxhAIJpAeQIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAD/xFd3c9nqnu7La9AA12HuFu8GAyt/6Mv4rkQV4pNkP68Yfv5hQHjuMtv05Zy4lOdoAOJJ7isz5LzH/4Y2FV6EVjrRslgCIm7ZeLeNUJ0JAxcs2RlP30GBoMzT7VuIqAAKbc2m4dEX9LKjZSVjWkAXDHqbJtiURCKcW9WbfDW+e</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

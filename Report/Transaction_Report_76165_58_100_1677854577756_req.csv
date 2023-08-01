@@ -1,0 +1,121 @@
+
+[13-04-2023 08:21:26]
+Transaction Report for Input File 76165_58_100_1677854577756_req.csv
+Beneficiary Name,Debit Account Number,Amount,IFSC CODE,Status,Reason
+MAKHAN JEET CONSTRUCTION           ,123456789456791,00000028000.00,SBIN0050870,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789456791,00000028000.00,SBIN0050871,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789456791,00000028000.00,SBIN0050872,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789456791,00000028000.00,SBIN0050873,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789456791,00000028000.00,SBIN0050874,Successful,
+Successful Record Count :5
+UnSuccessful Record Count :0
+
+[13-04-2023 08:23:37]
+Transaction Report for Input File 76165_58_100_1677854577756_req.csv
+Beneficiary Name,Debit Account Number,Amount,IFSC CODE,Status,Reason
+MAKHAN JEET CONSTRUCTION           ,123456789456791,00000028000.00,SBIN0050870,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789456791,00000028000.00,SBIN0050871,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789456791,00000028000.00,SBIN0050872,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789456791,00000028000.00,SBIN0050873,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789456791,00000028000.00,SBIN0050874,Successful,
+Successful Record Count :5
+UnSuccessful Record Count :0
+
+[13-04-2023 08:24:59]
+Transaction Report for Input File 76165_58_100_1677854577756_req.csv
+Beneficiary Name,Debit Account Number,Amount,IFSC CODE,Status,Reason
+MAKHAN JEET CONSTRUCTION           ,123456789456791,00000028000.00,SBIN0050870,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789456791,00000028000.00,SBIN0050871,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789456791,00000028000.00,SBIN0050872,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789456791,00000028000.00,SBIN0050873,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789456791,00000028000.00,SBIN0050874,Successful,
+Successful Record Count :5
+UnSuccessful Record Count :0
+
+[14-04-2023 01:59:54]
+Transaction Report for Input File 76165_58_100_1677854577756_req.csv
+Beneficiary Name,Debit Account Number,Amount,IFSC CODE,Status,Reason
+MAKHAN JEET CONSTRUCTION           ,               ,00000028000.00,SBIN0050870,UnSuccessful,Input Line 3 Debit Account Number [] should be 15 Digit|Input Line 3  Debit Account Number This is Mandatory Field & it is Blank |Input Line 3  Remitter Name This is Mandatory Field & it is Blank |
+MAKHAN JEET CONSTRUCTION           ,               ,00000028000.00,SBIN0050871,UnSuccessful,Input Line 4 Debit Account Number [] should be 15 Digit|Input Line 4  Debit Account Number This is Mandatory Field & it is Blank |Input Line 4  Remitter Name This is Mandatory Field & it is Blank |
+MAKHAN JEET CONSTRUCTION           ,               ,00000028000.00,SBIN0050872,UnSuccessful,Input Line 5 Debit Account Number [] should be 15 Digit|Input Line 5  Debit Account Number This is Mandatory Field & it is Blank |Input Line 5  Remitter Name This is Mandatory Field & it is Blank |
+MAKHAN JEET CONSTRUCTION           ,               ,00000028000.00,SBIN0050873,UnSuccessful,Input Line 6 Debit Account Number [] should be 15 Digit|Input Line 6  Debit Account Number This is Mandatory Field & it is Blank |Input Line 6  Remitter Name This is Mandatory Field & it is Blank |
+MAKHAN JEET CONSTRUCTION           ,               ,00000028000.00,SBIN0050874,UnSuccessful,Input Line 7 Debit Account Number [] should be 15 Digit|Input Line 7  Debit Account Number This is Mandatory Field & it is Blank |Input Line 7  Remitter Name This is Mandatory Field & it is Blank |
+Successful Record Count :0
+UnSuccessful Record Count :5
+
+[14-04-2023 02:02:03]
+Transaction Report for Input File 76165_58_100_1677854577756_req.csv
+Beneficiary Name,Debit Account Number,Amount,IFSC CODE,Status,Reason
+MAKHAN JEET CONSTRUCTION           ,               ,00000028000.00,SBIN0050870,UnSuccessful,Input Line 2 Debit Account Number [] should be 15 Digit|Input Line 2  Debit Account Number This is Mandatory Field & it is Blank |Input Line 2  Remitter Name This is Mandatory Field & it is Blank |
+MAKHAN JEET CONSTRUCTION           ,               ,00000028000.00,SBIN0050871,UnSuccessful,Input Line 3 Debit Account Number [] should be 15 Digit|Input Line 3  Debit Account Number This is Mandatory Field & it is Blank |Input Line 3  Remitter Name This is Mandatory Field & it is Blank |
+MAKHAN JEET CONSTRUCTION           ,               ,00000028000.00,SBIN0050872,UnSuccessful,Input Line 4 Debit Account Number [] should be 15 Digit|Input Line 4  Debit Account Number This is Mandatory Field & it is Blank |Input Line 4  Remitter Name This is Mandatory Field & it is Blank |
+MAKHAN JEET CONSTRUCTION           ,               ,00000028000.00,SBIN0050873,UnSuccessful,Input Line 5 Debit Account Number [] should be 15 Digit|Input Line 5  Debit Account Number This is Mandatory Field & it is Blank |Input Line 5  Remitter Name This is Mandatory Field & it is Blank |
+MAKHAN JEET CONSTRUCTION           ,               ,00000028000.00,SBIN0050874,UnSuccessful,Input Line 6 Debit Account Number [] should be 15 Digit|Input Line 6  Debit Account Number This is Mandatory Field & it is Blank |Input Line 6  Remitter Name This is Mandatory Field & it is Blank |
+Successful Record Count :0
+UnSuccessful Record Count :5
+
+[14-04-2023 02:04:13]
+Transaction Report for Input File 76165_58_100_1677854577756_req.csv
+Beneficiary Name,Debit Account Number,Amount,IFSC CODE,Status,Reason
+MAKHAN JEET CONSTRUCTION           ,123456789123456,00000028000.00,SBIN0050870,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789123456,00000028000.00,SBIN0050871,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789123456,00000028000.00,SBIN0050872,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789123456,00000028000.00,SBIN0050873,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789123456,00000028000.00,SBIN0050874,Successful,
+Successful Record Count :5
+UnSuccessful Record Count :0
+
+[14-04-2023 02:05:33]
+Transaction Report for Input File 76165_58_100_1677854577756_req.csv
+Beneficiary Name,Debit Account Number,Amount,IFSC CODE,Status,Reason
+MAKHAN JEET CONSTRUCTION           ,123456789123456,00000028000.00,SBIN0050870,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789123456,00000028000.00,SBIN0050871,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789123456,00000028000.00,SBIN0050872,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789123456,00000028000.00,SBIN0050873,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789123456,00000028000.00,SBIN0050874,Successful,
+Successful Record Count :5
+UnSuccessful Record Count :0
+
+[14-04-2023 02:10:51]
+Transaction Report for Input File 76165_58_100_1677854577756_req.csv
+Beneficiary Name,Debit Account Number,Amount,IFSC CODE,Status,Reason
+MAKHAN JEET CONSTRUCTION           ,123456789123456,00000028000.00,SBIN0050870,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789123456,00000028000.00,SBIN0050871,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789123456,00000028000.00,SBIN0050872,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789123456,00000028000.00,SBIN0050873,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789123456,00000028000.00,SBIN0050874,Successful,
+Successful Record Count :5
+UnSuccessful Record Count :0
+
+[14-04-2023 02:11:52]
+Transaction Report for Input File 76165_58_100_1677854577756_req.csv
+Beneficiary Name,Debit Account Number,Amount,IFSC CODE,Status,Reason
+MAKHAN JEET CONSTRUCTION           ,123456789123456,00000028000.00,SBIN0050870,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789123456,00000028000.00,SBIN0050871,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789123456,00000028000.00,SBIN0050872,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789123456,00000028000.00,SBIN0050873,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789123456,00000028000.00,SBIN0050874,Successful,
+Successful Record Count :5
+UnSuccessful Record Count :0
+
+[14-04-2023 09:50:36]
+Transaction Report for Input File 76165_58_100_1677854577756_req.csv
+Beneficiary Name,Debit Account Number,Amount,IFSC CODE,Status,Reason
+MAKHAN JEET CONSTRUCTION           ,123456789123456,00000028000.00,SBIN0050870,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789123456,00000028000.00,SBIN0050871,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789123456,00000028000.00,SBIN0050872,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789123456,00000028000.00,SBIN0050873,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789123456,00000028000.00,SBIN0050874,Successful,
+Successful Record Count :5
+UnSuccessful Record Count :0
+
+[15-04-2023 05:56:57]
+Transaction Report for Input File 76165_58_100_1677854577756_req.csv
+Beneficiary Name,Debit Account Number,Amount,IFSC CODE,Status,Reason
+MAKHAN JEET CONSTRUCTION           ,123456789123456,00000028000.00,SBIN0050870,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789123456,00000028000.00,SBIN0050871,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789123456,00000028000.00,SBIN0050872,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789123456,00000028000.00,SBIN0050873,Successful,
+MAKHAN JEET CONSTRUCTION           ,123456789123456,00000028000.00,SBIN0050874,Successful,
+Successful Record Count :5
+UnSuccessful Record Count :0

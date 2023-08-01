@@ -1,0 +1,16 @@
+
+[06-06-2023 02:44:40]
+Transaction Report for Input File YES_10937_22_100_20230601100009.csv
+Beneficiary Name,Debit Account Number,Amount,IFSC CODE,Status,Reason
+BHAWANI SERVICES LTD               ,123456789123456,00000000010.00,ICIC0000318,Successful,
+Vikas Sinha                        ,123456789123456,00000000010.00,SBIN0061557,Successful,
+Successful Record Count :2
+UnSuccessful Record Count :0
+
+[07-06-2023 05:34:05]
+Transaction Report for Input File YES_10937_22_100_20230601100009.csv
+Beneficiary Name,Debit Account Number,Amount,IFSC CODE,Status,Reason
+BHAWANI SERVICES LTD               ,123456789123456,00000000010.00,ICIC0000318,Successful,
+Vikas Sinha                        ,123456789123456,00000000010.00,SBIN0061557,Successful,
+Successful Record Count :2
+UnSuccessful Record Count :0
